@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "react_dev": "react-81400",
+    "default": "react-pub"
+  }
+}
